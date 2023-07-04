@@ -37,6 +37,9 @@ function addItem(todo){ //Recebe um parâmetro chamado todo, que representa um o
             
         })
 
+        function updateLS() {
+            
+        }
 
 
 Adiciona um evento de clique com o botão direito (contextmenu) ao elemento li. Quando o elemento li é clicado com o botão direito, ele é removido da lista. Esse evento de clique com o botão direito permite excluir uma tarefa.
