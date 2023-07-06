@@ -37,6 +37,10 @@ function addItem(todo){ //Recebe um parâmetro chamado todo, que representa um o
             
         })
 
+        todasTasks.addEventListener('contextMenu', (e) => {
+            e.prevent
+        })
+
         function updateLS() {
             
         }
