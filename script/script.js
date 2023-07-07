@@ -55,5 +55,5 @@ Limpa o valor do campo de input, definindo-o como uma string vazia.
 Chama a função updateLS, que provavelmente é responsável por atualizar os dados no armazenamento local (local storage) para refletir as alterações na lista de tarefas.
 
 
-
+//Conferir todas a linhas
 }
